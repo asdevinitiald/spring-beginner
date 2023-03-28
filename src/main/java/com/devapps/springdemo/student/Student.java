@@ -1,4 +1,4 @@
-package com.devapps.springdemo.models;
+package com.devapps.springdemo.student;
 
 import java.time.LocalDate;
 
